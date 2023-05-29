@@ -1,0 +1,42 @@
+.loginbutton{
+    background-color:  rgb(242, 242, 71)!important;
+    color: black!important;
+    border: none!important;
+}
+
+.textname{
+    color: white!important;
+
+
+}
+
+.sidebar{
+    height: 800px;
+    width: 150px!important;
+    background-color: rgb(242, 242, 71);
+}
+.sidebar-heading{
+    color: black;
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+}
+.charts{
+    background-color: rgb(167, 167, 167);
+    width: 700px;
+    padding: 30px;
+    border-radius: 20px;
+
+}
+
+.section-3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.pieheading1{
+    color: white;
+
+}
+
